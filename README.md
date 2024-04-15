@@ -3,4 +3,4 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=SachinAkash01&limit=3&theme=dark&combine_all_yearly_contributions=true)
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sachinakash) 
+<a href="https://www.buymeacoffee.com/sachinakash"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a> 
