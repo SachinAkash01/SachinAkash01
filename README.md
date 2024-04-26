@@ -9,9 +9,5 @@
 </div>
 
 <div width="100%" align="center">
-  <img height=150 align="center" src="https://github-contributor-stats.vercel.app/api?username=SachinAkash01&limit=2&theme=dark&combine_all_yearly_contributions=true" /><br /><br />
-</div>
-
-<div width="100%" align="center">
   <a href="https://www.buymeacoffee.com/sachinakash"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a> 
 </div>
