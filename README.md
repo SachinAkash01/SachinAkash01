@@ -7,7 +7,7 @@
 
 <div width="100%" align="center">
   <h2>🏆 Sachin's Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=SachinAkash01&column=10&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SachinAkash01&column=5&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <div width="100%" align="center">
