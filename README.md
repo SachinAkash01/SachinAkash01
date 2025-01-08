@@ -2,7 +2,7 @@
 
 <div width="100%" align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SachinAkash01&layout=compact&langs_count=8&no-bg=true&card_width=320&&hide_border=true" />
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SachinAkash01&hide_border=true&no-bg=true&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=SachinAkash01&hide_border=true&no-bg=true&card_width=400" />
 </div>
 
 <div width="100%" align="center">
