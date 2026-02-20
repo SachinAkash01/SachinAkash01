@@ -11,7 +11,7 @@
 <div width="100%">
   <h2>🏆 Sachin's Trophies</h2>
   <img src="https://trophies.sehmaluva.me/?username=SachinAkash01&theme=gruvbox&no-bg=true&no-frame=true&column=10"
-    wodth="100" />
+    width="1500" />
 </div>
 
 <div width="100%">
