@@ -1,4 +1,12 @@
-<img src="https://user-badge.committers.top/sri_lanka_public/SachinAkash01.svg" alt="Top Committer in Sri Lanka" /> <img src="https://img.shields.io/github/followers/SachinAkash01?label=Follow&style=social" alt="GitHub Followers" />
+<div width="100%" align="center">
+  <h1>Software Engineer (Full-Stack)</h1>
+  <em> Innovation & Building Scalable Solutions </em>
+</div>
+
+<div width="100%" align="center">
+  <img src="https://user-badge.committers.top/sri_lanka_public/SachinAkash01.svg" alt="Top Committer in Sri Lanka" /> <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-blue?style=flat-square" alt="Status" /> 
+  <img src="https://img.shields.io/badge/Location-Remote%20Friendly-blue?style=flat-square" alt="Location" /> <img src="https://img.shields.io/github/followers/SachinAkash01?label=Follow&style=social" alt="GitHub Followers" />
+</div>
 
 <div width="100%" align="center">
   <h2>📊 GitHub Stats</h2>
@@ -13,7 +21,7 @@
 </div>
 
 <div width="100%" align="center">
-  <h2>🏆 Sachin's Trophies</h2>
+  <h2>🏆 Trophies</h2>
   <img 
     src="https://trophies.sehmaluva.me/?username=SachinAkash01&theme=gruvbox&no-bg=true&no-frame=true&column=10"
     width="1500"
