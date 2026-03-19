@@ -11,7 +11,7 @@
 <div width="100%" align="center">
   <h2>📊 GitHub Stats</h2>
   <img height=200 align="center" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=SachinAkash01&hide_border=true&no-bg=true&card_width=400" />
-  <img height=195 align="center" src="https://github-contributor-stats.vercel.app/api?username=SachinAkash01&limit=5&theme=default&combine_all_yearly_contributions=true" />
+  <!-- <img height=195 align="center" src="https://github-contributor-stats.vercel.app/api?username=SachinAkash01&limit=5&theme=default&combine_all_yearly_contributions=true" /> -->
 </div>
 
 <div width="100%" align="center">
