@@ -29,6 +29,6 @@
 </div>
 
 <div width="100%" align="center">
-  <h2>💰 You can help me by Donating</h2>
+  <h2>☕ Buy me a coffee : )</h2>
   <a href="https://www.buymeacoffee.com/sachinakash"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 </div>
