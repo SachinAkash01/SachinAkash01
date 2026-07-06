@@ -4,7 +4,7 @@
 </div>
 
 <div width="100%" align="center">
-  <img src="https://user-badge.committers.top/sri_lanka_public/SachinAkash01.svg" alt="Top Committer in Sri Lanka" /> <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-blue?style=flat-square" alt="Status" /> 
+  <img src="https://user-badge.committers.top/sri_lanka_private/SachinAkash01.svg" alt="Top Committer in Sri Lanka" /> <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-blue?style=flat-square" alt="Status" /> 
   <img src="https://img.shields.io/badge/Location-Remote%20Friendly-blue?style=flat-square" alt="Location" /> <img src="https://img.shields.io/github/followers/SachinAkash01?label=Follow&style=social" alt="GitHub Followers" />
 </div>
 
