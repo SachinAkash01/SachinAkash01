@@ -23,7 +23,7 @@
 <div width="100%" align="center">
   <h2>🏆 Trophies</h2>
   <img 
-    src="https://trophies.sehmaluva.me/?username=SachinAkash01&theme=gruvbox&no-bg=true&no-frame=true&column=10"
+    src="https://trophy.ryglcloud.net/?username=SachinAkash01&theme=gruvbox&no-bg=true&no-frame=true&column=10"
     width="1500"
   />
 </div>
